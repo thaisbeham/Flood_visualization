@@ -1,4 +1,4 @@
-# Interdiciplinary Project SS2025: Techniques for Dynamic Visualization of Time-Varying Flood Data
+# Interdisciplinary Project SS2025: Techniques for Dynamic Visualization of Time-Varying Flood Data
 
 Supervisors: Thais Beham, Martin Schobben
 
@@ -7,7 +7,7 @@ Students:
 
 
  ## Project Goal
- Propose new ways and improvements for visualizating time-dependent flood data. We will work with the [Global Flood Monitoring dataset](https://www.tuwien.at/en/mg/geo/rs/open-data/gfm).
+ Propose new ways and improvements for visualizing time-dependent flood data. We will work with the [Global Flood Monitoring dataset](https://www.tuwien.at/en/mg/geo/rs/open-data/gfm).
 
  Research questions:
 
