@@ -19,7 +19,7 @@ Students:
  ## Use cases 
 
  * Nothern Germany (as shown in the jupyter notebook)
- * Pakhistan 2022 (https://repositum.tuwien.at/handle/20.500.12708/189403)
+ * Pakistan 2022 (https://repositum.tuwien.at/handle/20.500.12708/189403)
  * Greece 2018 (https://www.mdpi.com/2072-4292/14/15/3673)
 
  ## Important links
