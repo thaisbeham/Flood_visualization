@@ -26,6 +26,9 @@ Students:
 
  * Paper explaining how the flood was calculated based on the satelite images: Satellite-Based Flood Mapping through Bayesian Inference from a Sentinel-1 SAR Datacube. https://doi.org/10.3390/rs14153673.
  * Metadata: https://services.eodc.eu/browser/#/v1/collections/GFM
+ * https://extwiki.eodc.eu/en/GFM 
+ * https://ieeexplore.ieee.org/document/10186373/ 
+ * https://ieeexplore.ieee.org/document/9554214/ 
 
 
 
